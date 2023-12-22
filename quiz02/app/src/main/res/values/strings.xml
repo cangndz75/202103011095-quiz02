@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">quiz02</string>
+    <string name="txt1">Member Home</string>
+    <string name="txtEdit">Zahid Gurbuz</string>
+    <string name="txt2">Koleksiyon Cinsi</string>
+    <string name="txt2baslangic">Pul</string>
+    <string name="buttonTxt">Degistir</string>
+    <string name="txt3">Koleksiyon Durumu</string>
+    <string name="txt3baslangic">Degisime Acik</string>
+
+    <string name="paylasBtn">Paylas</string>
+
+    <string-array name="koleksiyon_cinsleri">
+        <item>Pul</item>
+        <item>Vazo</item>
+        <item>Gazoz Kapagi</item>
+        <item>Futbolcu Karti</item>
+        <item>Konsol</item>
+    </string-array>
+
+    <string-array name="koleksiyon_durumlari">
+        <item>Degisime Acik</item>
+        <item>Gizli</item>
+        <item>Devam Ediyor</item>
+        <item>Tamamlandi</item>
+        <item>Ertelendi</item>
+    </string-array>
+</resources>
